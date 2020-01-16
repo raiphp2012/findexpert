@@ -1,0 +1,12 @@
+#ci_post_colors .wp-picker-container {
+	display: block;
+}
+
+.ci-post-customizer-col {
+	width: 46% !important;
+	float: left;
+}
+
+.ci-post-customizer-col.spacer {
+	margin-right: 15px;
+}
