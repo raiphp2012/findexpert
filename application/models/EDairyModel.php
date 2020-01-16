@@ -1,0 +1,21 @@
+<?php
+class EDairyModel extends CI_Model
+{
+	public function eDairy_list()
+	{
+		$expert_id = $this->session->userdata('expertId');
+		$query = $this->db
+						 ->select('*')
+						 ->from('edairy')
+						 ->where('expertId', $expert_id)
+						 ->get();
+		
+
+		return $query->result();
+	}
+	public function add_eDairy($array)
+	{
+		return $this->db->insert('edairy', $array );
+
+	}
+}

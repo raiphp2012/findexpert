@@ -1,0 +1,1 @@
+<div class="copyright">&copy; Copyright <?php echo date("Y");?>. All rights reserved.</div>

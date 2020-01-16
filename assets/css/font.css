@@ -1,0 +1,201 @@
+@font-face{
+    font-family: 'f1';
+    src: url(../css/font/ABeeZee/ABeeZee-Regular.ttf);
+     src: local("f1"),
+                url("../css/font/ABeeZee/ABeeZee-Regular.ttf") format("truetype");
+              
+}
+/*@font-face{
+    font-family: 'f2';
+    src: url(../css/font/automania/AUTOMANI.TTF);
+     src: local("f2"),
+                url("../css/font/automania/AUTOMANI.TTF") format("truetype");
+}*/
+/*@font-face{
+    font-family: 'f3';
+    src: url(../css/font/Capture-it/Capture_it.ttf);
+     src: local("f3"),
+               url("../css/font/Capture-it/Capture_it.ttf")format("truetype");
+}*/
+@font-face{
+    font-family: 'f4';
+    src: url(../css/font/Carme/Carme-Regular.ttf);
+     src: local("f4"),
+               
+                url("../css/font/Carme/Carme-Regular.ttf")format("truetype");
+}
+
+/*@font-face{
+    font-family: 'f5';
+    src: url(../css/font/crazy_bunny__d/Crazy_bunny.ttf);
+     src: local("f5"),
+                url("../css/font/crazy_bunny__d/Crazy_bunny.ttf")format("truetype");
+              
+}*/
+@font-face{
+    font-family: 'f6';
+    src: url(../css/font/Delius/Delius-Regular.ttf);
+     src: local("f6"),
+                url("../css/font/Delius/Delius-Regular.ttf")format("truetype");
+              
+}
+@font-face{
+    font-family: 'f7';
+    src: url(../css/font/gputeks/Gputeks-Regular.ttf);
+     src: local("f7"),
+               url("../css/font/gputeks/Gputeks-Regular.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f8';
+    src: url(../css/font/Hind_Siliguri/HindSiliguri-Regular.ttf);
+     src: local("f8"),
+               
+                url("../css/font/Hind_Siliguri/HindSiliguri-Regular.ttf")format("truetype");
+}
+
+/*@font-face{
+    font-family: 'f9';
+    src: url(../css/font/josefin/JosefinSlab-Regular.ttf);
+     src: local("f9"),
+                url("../css/font/josefin/JosefinSlab-Regular.ttf")format("truetype");
+              
+}*/
+@font-face{
+    font-family: 'f10';
+    src: url(../css/font/Kameron/Kameron-Regular.ttf);
+     src: local("f10"),
+                url("../css/font/Kameron/Kameron-Regular.ttf")format("truetype");
+              
+}
+@font-face{
+    font-family: 'f11';
+    src: url(../css/font/karla/Karla-Regular.ttf);
+     src: local("f11"),
+               url("../css/font/karla/Karla-Regular.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f12';
+    src: url(../css/font/Kite_One/KiteOne-Regular.ttf);
+     src: local("f12"),
+               
+                url("../css/font/Kite_One/KiteOne-Regular.ttf")     format("truetype");
+}
+
+@font-face{
+    font-family: 'f13';
+    src: url(../css/font/lato/Lato-Light.ttf);
+     src: local("f13"),
+                url("../css/font/lato/Lato-Light.ttf") format("truetype");
+              
+}
+@font-face{
+    font-family: 'f14';
+    src: url(../css/font/Molengo/Molengo-Regular.ttf);
+     src: local("f14"),
+                url("../css/font/Molengo/Molengo-Regular.ttf")format("truetype");
+              
+}
+@font-face{
+    font-family: 'f15';
+    src: url(../css/font/Offside/Offside-Regular.ttf);
+     src: local("f15"),
+               url("../css/font/Offside/Offside-Regular.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f16';
+    src: url(../css/font/Ruda/Ruda-Regular.ttf);
+     src: local("f16"),
+               
+                url("../css/font/Ruda/Ruda-Regular.ttf")format("truetype");
+}
+
+@font-face{
+    font-family: 'f17';
+    src: url(../css/font/Signika_Negative/SignikaNegative-Regular.ttf);
+     src: local("f17"),
+               url("../css/font/Signika_Negative/SignikaNegative-Regular.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f18';
+    src: url(../css/font/Sintony/Sintony-Regular.ttf);
+     src: local("f18"),
+               
+                url("../css/font/Sintony/Sintony-Regular.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f19';
+    src: url(../css/font/BRUX/BRUX.ttf);
+     src: local("f19"),
+               
+                url("../css/font/BRUX/BRUX.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f20';
+    src: url(../css/font/kust.ttf);
+     src: local("f20"),
+               
+                url("../css/font/kust.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f21';
+    src: url(../css/font/ANURATI/Anurati-Regular.otf);
+     src: local("f21"),
+               
+                url("../css/font/ANURATI/Anurati-Regular.otf")format("opentype");
+}
+@font-face{
+    font-family: 'f22';
+    src: url(../css/font/ELIXIA.ttf);
+     src: local("f22"),
+               
+                url("../css/font/ELIXIA.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f23';
+    src: url(../css/font/blowbrush.otf);
+     src: local("f23"),
+               
+                url("../css/font/blowbrush.otf")format("opentype");
+}
+@font-face{
+    font-family: 'f24';
+    src: url(../css/font/Karmina Bold.otf);
+     src: local("f24"),
+               
+                url("../css/font/Karmina Bold.otf")format("opentype");
+}
+@font-face{
+    font-family: 'f25';
+    src: url(../css/font/KazmannSans.ttf);
+     src: local("f25"),
+               
+                url("../css/font/KazmannSans.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f27';
+    src: url(../css/font/Kopio639.ttf);
+     src: local("f27"),
+               
+                url("../css/font/Kopio639.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f28';
+    src: url(../css/font/RedSeven.otf);
+     src: local("f28"),
+               
+                url("../css/font/RedSeven.otf")format("opentype");
+}
+@font-face{
+    font-family: 'f29';
+    src: url(../css/font/Dalek.ttf);
+     src: local("f29"),
+               
+                url("../css/font/Dalek.ttf")format("truetype");
+}
+@font-face{
+    font-family: 'f30';
+    src: url(../css/font/Iceland-Regular.ttf);
+     src: local("f30"),
+               
+                url("../css/font/Iceland-Regular.ttf")format("truetype");
+}

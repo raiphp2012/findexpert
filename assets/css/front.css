@@ -1,0 +1,66 @@
+/*client front page*/
+
+#waitInQueue h4{
+	font-family: f4;
+	font-size:24px;
+	color: #497182;
+}
+
+#waitInQueue h5{
+	font-family: f4;
+	font-size:17px;
+	color: #909090;
+	padding: 10px 0;
+}
+
+#waitInQueue h6{
+	font-family: f4;
+	font-size:18px;
+	color: #e4000e;
+	font-weight:700;
+	margin-bottom: 20px;
+}
+
+#waitInQueue .tax-block-wrapper{
+    border:0;
+    height: 90px;
+    width: 320px;
+    margin: 0 30px 30px 0;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    transition: 0.3s ease-in-out;
+    background-color: #e4000e;
+/*	-webkit-box-shadow: 3px 3px 8px 0 rgba(0,0,0,0.4) ;
+	box-shadow: 3px 3px 8px 0 rgba(0,0,0,0.4) ;*/
+}
+
+#waitInQueue .tax-block-wrapper:hover{
+	-webkit-box-shadow: 8px 8px 6px 0 rgba(0, 0, 0, 0.38) ;
+	box-shadow:8px 8px 6px 0 rgba(0, 0, 0, 0.38);
+
+}
+
+
+#waitInQueue .tax-block-wrapper h3{
+	font-size: 24px;
+	color:#fff;
+	margin: 0;
+	position: absolute;
+	top:50%;
+	left:50%;
+	font-weight: 500;
+	font-family: f4;
+	transform: translate3d(-50%,-50%,0);
+}
+
+.you-videos h3{
+    font-family: f4;
+    font-size: 36px;
+    color: #497182;
+    margin: 20px 0;
+}
+
+.you-videos .col-md-6{
+	margin-bottom: 20px; 
+}
